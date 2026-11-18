@@ -1,0 +1,12 @@
+{
+  "name": "Burque Driveway Pros",
+  "url": "https://burquedrivewaypros.com",
+  "contactEmail": "hello@burquedrivewaypros.com",
+  "categories": [
+    {"slug": "mobile-mechanics", "name": "Mobile Mechanics", "short": "Mechanics", "emoji": "🔧", "blurb": "Brakes, batteries, diagnostics and no-starts fixed in your driveway, at work or on the roadside — no tow, no waiting room."},
+    {"slug": "mobile-detailing", "name": "Mobile Detailing", "short": "Detailing", "emoji": "🧽", "blurb": "Interior deep cleans, washes, paint correction and ceramic coating done wherever your car is parked."},
+    {"slug": "mobile-windshield-repair", "name": "Mobile Windshield Repair", "short": "Windshield", "emoji": "🪟", "blurb": "Rock-chip repair and windshield replacement at your home or office. Many handle the insurance claim for you."},
+    {"slug": "mobile-tire-service", "name": "Mobile Tire Service", "short": "Tires", "emoji": "🛞", "blurb": "Flat repair, tire swaps and new-tire installs on site — including RVs and trucks."},
+    {"slug": "mobile-car-locksmith", "name": "Mobile Car Locksmith", "short": "Locksmith", "emoji": "🔑", "blurb": "Car lockouts, lost keys and key-fob programming — most offer 24/7 service across the metro."}
+  ]
+}
